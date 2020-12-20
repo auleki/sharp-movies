@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 using RazorPagesMovie.Data;
 using RazorPagesMovie.Models;
 
-namespace RazorPagesMovie.Pages.Movies__referenceScriptLibraries
+namespace RazorPagesMovie.Pages.Movies
 {
     public class EditModel : PageModel
     {

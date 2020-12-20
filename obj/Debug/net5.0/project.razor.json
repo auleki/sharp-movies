@@ -15628,6 +15628,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Movies\\Details.cshtml",
+      "TargetPath": "Pages\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -15638,13 +15643,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Movies\\Edit.cshtml",
+      "TargetPath": "Pages\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Movies--referenceScriptLibraries\\Index.cshtml",
       "TargetPath": "Pages\\Movies--referenceScriptLibraries\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Movies\\Create.cshtml",
+      "TargetPath": "Pages\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Movies--referenceScriptLibraries\\Details.cshtml",
       "TargetPath": "Pages\\Movies--referenceScriptLibraries\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Movies\\Index.cshtml",
+      "TargetPath": "Pages\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Movies\\Delete.cshtml",
+      "TargetPath": "Pages\\Movies\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
