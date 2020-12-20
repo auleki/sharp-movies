@@ -15608,6 +15608,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Movies--referenceScriptLibraries\\Edit.cshtml",
+      "TargetPath": "Pages\\Movies--referenceScriptLibraries\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -15633,8 +15638,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Movies--referenceScriptLibraries\\Index.cshtml",
+      "TargetPath": "Pages\\Movies--referenceScriptLibraries\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Movies--referenceScriptLibraries\\Details.cshtml",
+      "TargetPath": "Pages\\Movies--referenceScriptLibraries\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Movies--referenceScriptLibraries\\Delete.cshtml",
+      "TargetPath": "Pages\\Movies--referenceScriptLibraries\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\paradise\\P_G\\C#\\RazorPagesMovie\\Pages\\Movies--referenceScriptLibraries\\Create.cshtml",
+      "TargetPath": "Pages\\Movies--referenceScriptLibraries\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
